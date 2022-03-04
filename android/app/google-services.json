@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "983611608357",
+    "project_id": "kadai-6762c",
+    "storage_bucket": "kadai-6762c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983611608357:android:7799bf9acaa3464429decc",
+        "android_client_info": {
+          "package_name": "com.example.kadai_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983611608357-9h6choojuvnkt7h9g2vkmp7bmpfopd47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOWXm2S-PXW-iBdy2hdGw8IxyYXHPCpS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983611608357-9h6choojuvnkt7h9g2vkmp7bmpfopd47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
